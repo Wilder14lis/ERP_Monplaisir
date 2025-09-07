@@ -1,0 +1,45 @@
+
+.pagina {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.columna {
+    justify-content: space-between;
+    display: flex;
+    align-items: left;
+}
+
+.columna > * {
+    margin: 5px;
+}
+
+.imgRef {
+    width: 400px;
+}
+
+h1,h2 {
+    font-weight: bold;
+}
+
+.carta {
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #DFDFC9;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.boton {
+    width: 80%;
+    margin: 1em 2em;
+    padding: 1em;
+    background-color: #F5F5DC;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.boton:hover {
+    background-color: #DFDFC9;
+}
