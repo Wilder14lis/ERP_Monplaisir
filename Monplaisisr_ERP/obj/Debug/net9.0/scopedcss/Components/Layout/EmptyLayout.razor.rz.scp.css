@@ -1,0 +1,19 @@
+.page[b-1pi5p99qyt] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.cuerpo[b-1pi5p99qyt] {
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+main[b-1pi5p99qyt] {
+    background-color: #DFDFC9;
+}

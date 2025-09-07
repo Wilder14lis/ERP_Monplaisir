@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Monplaisir_ERP
+build_property.RootNamespace = Monplaisir_ERP
+build_property.ProjectDir = C:\Wilder\Trabajos_UMB\8vo_Semestre\Ingenieria_Web\Proyecto\Monplaisir_ERP\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Wilder\Trabajos_UMB\8vo_Semestre\Ingenieria_Web\Proyecto\Monplaisir_ERP
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Wilder/Trabajos_UMB/8vo_Semestre/Ingenieria_Web/Proyecto/Monplaisir_ERP/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Wilder/Trabajos_UMB/8vo_Semestre/Ingenieria_Web/Proyecto/Monplaisir_ERP/Components/Pages/Contratar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb250cmF0YXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Wilder/Trabajos_UMB/8vo_Semestre/Ingenieria_Web/Proyecto/Monplaisir_ERP/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Wilder/Trabajos_UMB/8vo_Semestre/Ingenieria_Web/Proyecto/Monplaisir_ERP/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Wilder/Trabajos_UMB/8vo_Semestre/Ingenieria_Web/Proyecto/Monplaisir_ERP/Components/Pages/Registrar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZWdpc3RyYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Wilder/Trabajos_UMB/8vo_Semestre/Ingenieria_Web/Proyecto/Monplaisir_ERP/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Wilder/Trabajos_UMB/8vo_Semestre/Ingenieria_Web/Proyecto/Monplaisir_ERP/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Wilder/Trabajos_UMB/8vo_Semestre/Ingenieria_Web/Proyecto/Monplaisir_ERP/Components/Layout/CommercialLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcQ29tbWVyY2lhbExheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-gs9tpyh8y7
+
+[C:/Wilder/Trabajos_UMB/8vo_Semestre/Ingenieria_Web/Proyecto/Monplaisir_ERP/Components/Layout/EmptyLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcRW1wdHlMYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-1pi5p99qyt
+
+[C:/Wilder/Trabajos_UMB/8vo_Semestre/Ingenieria_Web/Proyecto/Monplaisir_ERP/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-f9vkasnwen
+
+[C:/Wilder/Trabajos_UMB/8vo_Semestre/Ingenieria_Web/Proyecto/Monplaisir_ERP/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-awjd4fykon
