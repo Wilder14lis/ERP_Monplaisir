@@ -1,0 +1,33 @@
+@inherits LayoutComponentBase
+
+
+<div clase="page">
+    <main>
+        <div class="top-row px-4">
+            <div>
+                <h2>Monplaisir ERP</h2>
+            </div>
+            <div>
+                <a href="https://learn.microsoft.com/aspnet/core/" target="_blank" class="op-nav">Producto</a>
+                <a href="https://learn.microsoft.com/aspnet/core/" target="_blank" class="op-nav">Soporte</a>
+            </div>
+            <div>
+                <NavLink href="/Contratar" class="nav-link" ActiveClass="active">
+                    <div class="op-nav">
+                        Ingresar
+                    </div>
+                </NavLink>
+                <NavLink href="/Contratar" class="nav-link" ActiveClass="active">
+                    <div class="op-nav">
+                        Contratar
+                    </div>
+                </NavLink>
+            </div>
+        </div>
+
+        <article class="content px-4 cuerpo">
+            @Body
+        </article>
+        
+    </main>
+</div>
