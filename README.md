@@ -8,7 +8,7 @@ Con entender los 2 primeros video (saltando la introducción) ya bastaría.
 
 # Inicio para editar
 En la dirección "Monplaisisr_ERP / Components / Pages" encontraras el archivo "Home.razor".
-Este es el cuerpo de la primera pagina, el cual maneja el layout "CommercialLayout.razor",
+Este es el cuerpo de la primera pagina, el cual es manejado por el layout "CommercialLayout.razor",
 en la dirección "Components / Layout".
 
 # Para correr el programa
