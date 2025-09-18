@@ -4,6 +4,11 @@
     flex-direction: column;
 }
 
+.tope {
+    height: 15vh;
+    background-color: #DFDFC9;
+}
+
 .cuerpo {
     width: 70%;
     margin: 0 auto;
@@ -16,4 +21,8 @@
 
 main {
     background-color: #DFDFC9;
+}
+
+main {
+    height: 100vh;
 }

@@ -48,3 +48,20 @@ main {
 NavLink {
     display: block;
 }
+
+footer {
+    color: gray;
+    background-color: white;
+    padding: 20px 10px;
+    display: grid;
+    justify-content: center;
+}
+footer > h3{
+    text-align: center;
+}
+
+.columnas {
+    justify-content: space-between;
+    display: flex;
+    text-decoration: none;
+}
