@@ -1,0 +1,56 @@
+@inherits LayoutComponentBase
+
+
+<div clase="page">
+    <main>
+        <div class="top-row px-4">
+            <div>
+                <h2>Monplaisir ERP</h2>
+            </div>
+            <div>
+                <a href="https://learn.microsoft.com/aspnet/core/" target="_blank" class="op-nav">Producto</a>
+                <a href="https://learn.microsoft.com/aspnet/core/" target="_blank" class="op-nav">Soporte</a>
+            </div>
+            <div>
+                <NavLink href="/Contratar" class="nav-link" ActiveClass="active">
+                    <div class="op-nav">
+                        Ingresar
+                    </div>
+                </NavLink>
+                <NavLink href="/Contratar" class="nav-link" ActiveClass="active">
+                    <div class="op-nav">
+                        Contratar
+                    </div>
+                </NavLink>
+            </div>
+        </div>
+
+        <article class="content px-4 cuerpo">
+            @Body
+        </article>
+        
+        <div style="height:50px"></div>
+        
+        <footer>
+            <h3>Monplaisir</h3>
+            <div class="columnas">
+                <div>
+                    <h3>Desarrolladores</h3>
+                    <ul>
+                        <li>Wider Julian Lis Ramirez</li>
+                        <li>Juan Felipe Betancourt Aponte</li>
+                        <li>Juan Felipe Coronel Montes</li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>Contactanos</h3>
+                    <ul>
+                        <li>wilder14@example.com</li>
+                        <li>Betancourt01@example.com</li>
+                        <li>Coronel02@example.com</li>
+                    </ul>
+                </div>
+            </div>
+        </footer>
+    </main>
+</div>
